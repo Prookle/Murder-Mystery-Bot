@@ -23,9 +23,14 @@ Now you can invite the bot by clicking on the oauth2 tab and then URL generator.
 
 Now copy the invite link under "generate link" and invite the bot to your server!
 
+
+# Database
+This bot can either use a json file or MongoDB as a database! By default it uses json, but if you'd like to use mongoDB then paste your mongoDB login key in mongoDBLoginInfo.txt and in bot.py set LocalStorage to false. The bot will use "discord" as the cluster name and "murder-mystery" as the collection name, but you can change them in datastorage.py on line 25 and 26 if you want.
+
 # Notes
 **This bot was made with the old discord.py commands library**, which means this bot does **NOT** support slash commands. It requires the message content intent
 
 This bot **REQUIRES ALL PRIVELAGED INTENTS TO BE ENABLED**. This means that if you fork this bot and don't make any major changes to it and it reaches over 100 servers, you will have to apply for all of the privelaged intents. The main bot is approved for all intents. If the bot is under 100 servers you just have to turn on everything under "Privileged Gateway Intents" in the bot tab and you sould be fine
 
 Please credit me if you make a public fork of this bot!
+
