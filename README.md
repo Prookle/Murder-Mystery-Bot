@@ -1,9 +1,11 @@
 # Murder-Mystery-Bot
 Archival of my old project Murder Mystery, a town of salem/mafia-like game inside discord! I still try to keep this bot up, but it's not getting updated anymore unless necessary to keep it online. If you'd like to play it and not host the bot yourself you can invite the main bot here: https://discord.com/api/oauth2/authorize?client_id=590980247801954304&permissions=2434133072&scope=bot
+
 This bot also has a support server/server to play the game with other people, but it died down after a while: https://discord.gg/7bbHsHgE3v
 
 # Inviting to your own server
 Click this link: https://discord.com/api/oauth2/authorize?client_id=590980247801954304&permissions=2434133072&scope=bot
+
 The bot also has a page on top.gg: https://top.gg/bot/590980247801954304
 
 # Running the bot yourself
