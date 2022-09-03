@@ -32,5 +32,5 @@ This bot can either use a json file or MongoDB as a database! By default it uses
 
 This bot **REQUIRES ALL PRIVELAGED INTENTS TO BE ENABLED**. This means that if you fork this bot and don't make any major changes to it and it reaches over 100 servers, you will have to apply for all of the privelaged intents. The main bot is approved for all intents. If the bot is under 100 servers you just have to turn on everything under "Privileged Gateway Intents" in the bot tab and you sould be fine
 
-Please credit me if you make a public fork of this bot!
+Please credit me if you make a public fork of this bot! Also let me know I'm curious to what you'd do with it
 
