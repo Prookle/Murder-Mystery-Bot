@@ -15,7 +15,7 @@ Fist you need to install python from https://www.python.org/. I'm pretty sure it
 
 Now you have to install the libaries used by this bot. Open command prompt or your terminal and execute the command "pip install discord pymongo dnspython"
 
-Then create a bot on discord developer portal by going to https://discord.com/developers/applications > new application. Then on the bot tab click add bot and then click reset token. Then copy the token and paste it into token.txt. In "privileged gateway intent" check everything (presence, server members and message content)
+Then create a bot on the discord developer portal by going to https://discord.com/developers/applications > new application. Then on the bot tab click add bot and then click reset token. Then copy the token and paste it into token.txt. In "privileged gateway intent" check everything (presence, server members and message content)
 
 Then you can run the bot by opening cmd and using the command "py bot.py" (I'm pretty sure it's "python3 bot.py" on macOS or linux). If you did it correctly it should say "Logged in as (bot's username)"
 
@@ -34,5 +34,5 @@ This bot **REQUIRES ALL PRIVELAGED INTENTS TO BE ENABLED**. This means that if y
 
 This code is a bit messy, I wrote it a while ago (and was 14 at the time)
 
-Please credit me if you make a public fork of this bot! Also let me know I'm curious to what you'd do with it
+Please credit me if you make a public fork of this bot! Also let me know I'm curious what you'd do with it
 
