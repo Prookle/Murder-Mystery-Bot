@@ -25,7 +25,7 @@ Now copy the invite link under "generate link" and invite the bot to your server
 
 
 # Database
-This bot can either use a json file or MongoDB as a database! By default it uses json, but if you'd like to use mongoDB then paste your mongoDB login key in mongoDBLoginInfo.txt and in bot.py set LocalStorage to false. The bot will use "discord" as the cluster name and "murder-mystery" as the collection name, but you can change them in datastorage.py on line 25 and 26 if you want.
+This bot can either use a json file or MongoDB as a database! By default it uses json, but if you'd like to use mongoDB then paste your mongoDB login key in mongoDBLoginInfo.txt and in bot.py set LocalStorage to false. The bot will use "discord" as the database name and "murder-mystery" as the collection name, but you can change them in datastorage.py on line 25 and 26 if you want.
 
 # Notes
 **This bot was made with the old discord.py commands library**, which means this bot does **NOT** support slash commands. It requires the message content intent
